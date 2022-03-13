@@ -3,5 +3,8 @@
 #Updating apt
 sudo apt update
 
-#Installing applications
-sudo apt install hello sl neofetch
+#Installing the XFCE4 Appmenu
+sudo apt install xfce4-appmenu-plugin
+
+#Installing Applications
+echo Coming Soon.
